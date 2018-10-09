@@ -1,0 +1,4 @@
+insert into item(id, name) VALUES  (1, 'Adam');
+insert into item(id, name) VALUES  (2, 'Jola');
+insert into item(id, name) VALUES  (3, 'Marcin');
+
